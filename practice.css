@@ -1,0 +1,40 @@
+        .tables, td, th
+        {
+            color: navy;
+            border-collapse: collapse;
+            border: 2px solid red;
+            font-family: 'Courier New', Courier, monospace;
+            width: 500px;
+            height: 50px;
+        }
+
+        .iframe
+        {
+            width: 1000px;
+            height: 500px;
+        }
+
+        .ol
+        {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: large;
+            font-weight: bolder;
+            list-style: upper-roman;
+            margin-left: 600px;
+            color: brown;
+        }
+        
+        .ul
+        {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-weight: bolder;
+            list-style: filled circle;
+            margin-left: 600px;
+            color: brown;
+        }
+        
+        .heading
+        {
+            text-align: center;
+            color: darkviolet;
+        }
